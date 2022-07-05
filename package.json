@@ -1,0 +1,18 @@
+{
+  "name": "docs.burner.gay",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "docs:format": "prettier -w docs"
+  },
+  "author": "Burner <burner@burner.gay>",
+  "license": "SEE LICENSE IN license.txt",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}

@@ -12,7 +12,7 @@
   "license": "SEE LICENSE IN license.txt",
   "devDependencies": {
     "prettier": "^2.7.1",
-    "vitepress": "^1.0.0-alpha.16",
+    "vitepress": "^1.0.0-alpha.19",
     "vue": "^3.2.40"
   }
 }

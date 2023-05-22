@@ -13,6 +13,6 @@
   "devDependencies": {
     "prettier": "^2.8.7",
     "vitepress": "^1.0.0-alpha.65",
-    "vue": "^3.2.47"
+    "vue": "^3.3.4"
   }
 }
